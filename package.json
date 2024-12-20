@@ -1,0 +1,12 @@
+{
+  "name": "GitBuddy",
+  "version": "1.0.0",
+  "description": "GitBuddy - A VS Code extension that simplifies Git workflows with an intuitive interface for managing branches, commits, and repositories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
